@@ -4,7 +4,7 @@
 
 int main(){
 
-    char* name = "Mehrdad";
+    char* name = "Mehrdad Salehi";
     printf("Hello %s!\n", name);
 
     return 0;
